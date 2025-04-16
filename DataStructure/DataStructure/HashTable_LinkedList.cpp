@@ -14,7 +14,7 @@ void HashTable_LinkedList();
 
 //int main()
 //{
-//	HashTable_LinkedList();hello
+//	HashTable_LinkedList();
 //}
 
 int FindHashIndex(int);
